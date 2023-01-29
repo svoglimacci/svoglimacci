@@ -1,4 +1,4 @@
-### Simon Voglimacci
+### 🧙🦆 Simon Voglimacci
 
 **`First year CS student at UdeM`**
 
