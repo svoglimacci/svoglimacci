@@ -32,7 +32,7 @@ I'm a computer science student with a strong interest in creating solutions to r
 
 ### 📊 Stats
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=svoglimacci&show_icons=true&theme=gruvbox)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=svoglimacci&show_icons=true&theme=tokyonight)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=svoglimacci&theme=gruvbox&border_radius=4.5) -->
 
