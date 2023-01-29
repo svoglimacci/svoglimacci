@@ -1,6 +1,6 @@
 ### Simon Voglimacci
 
-**`First year CS student at UdeM``**
+**`First year CS student at UdeM`**
 
 I'm a computer science student with a strong interest in creating solutions to real-life problems and finding ways to to relieve the small inconveniences of daily life.
 
