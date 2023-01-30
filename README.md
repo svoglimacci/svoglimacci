@@ -27,6 +27,8 @@ I'm a computer science student with a strong interest in creating solutions to r
 <img align="left" alt="PostGreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 </br>
+
+
 #
 
 ### 📊 Stats
