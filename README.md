@@ -1,6 +1,6 @@
 ### 🧙🦆 Simon Voglimacci
 
-**`First year CS student at UdeM`**
+**`2nd year CS student at UdeM`**
 
 I'm a computer science student with a strong interest in creating solutions to real-life problems and finding ways to to relieve the small inconveniences of daily life.
 
@@ -14,6 +14,9 @@ I'm a computer science student with a strong interest in creating solutions to r
   ---
 
 ### 🧰 Languages and Tools
+
+**`Currently learning : Java, Spring Boot`**
+
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
