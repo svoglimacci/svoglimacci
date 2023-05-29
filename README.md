@@ -15,7 +15,7 @@ I'm a computer science student with a strong interest in creating solutions to r
 
 ### 🧰 Languages and Tools
 
-**`Currently learning : Java, Spring Boot`**
+**`Currently learning : Java ☕ | Spring Boot 🍃 | Neovim ⌨️ | Rust 🦀`**
 
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
