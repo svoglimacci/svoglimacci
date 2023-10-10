@@ -2,7 +2,7 @@
 
 **`2nd year CS student at UdeM`**
 
-I'm a computer science student with a strong interest in creating solutions to real-life problems and finding ways to to relieve the small inconveniences of daily life.
+I'm a computer science student with a strong interest in creating solutions to real-life problems, finding ways to to relieve the small inconveniences of daily life, but mostly optimizing the hell out of everything.
 
   <p align="left">
     <a href="https://github.com/svoglimacci?tab=followers">
