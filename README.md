@@ -33,4 +33,14 @@ I'm a computer science student with a strong interest in creating solutions to r
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=svoglimacci&layout=compact&theme=tokyonight)
 
-#
+
+### 🚀 Some Projects
+<a href="https://github.com/svoglimacci/bug-tracker-app">
+  <img height=120 src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=bug-tracker-app&theme=tokyonight" />
+</a>
+<a href="https://github.com/svoglimacci/Bigram-Search-Tool">
+  <img height=120 style="padding-left:6px"  src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=Bigram-Search-Tool&theme=tokyonight" />
+</a>
+<a href="https://github.com/svoglimacci/cpp-todo">
+  <img width=343 style="padding-top:2px" src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=cpp-todo&theme=tokyonight" />
+</a>
