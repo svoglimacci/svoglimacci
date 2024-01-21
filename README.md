@@ -42,5 +42,8 @@ I'm a computer science student with a strong interest in creating solutions to r
   <img height=120 style="padding-left:6px"  src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=Bigram-Search-Tool&theme=tokyonight" />
 </a>
 <a href="https://github.com/svoglimacci/cpp-todo">
-  <img width=343 style="padding-top:2px" src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=cpp-todo&theme=tokyonight" />
+  <img width=343 src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=cpp-todo&theme=tokyonight" />
+</a>
+<a href="https://github.com/svoglimacci/haskell-slip-interpreter">
+  <img width=400 style="padding-top:2px" src="https://github-readme-stats.vercel.app/api/pin/?username=svoglimacci&repo=haskell-slip-interpreter&theme=tokyonight" />
 </a>
