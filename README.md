@@ -1,6 +1,6 @@
 ### 🧙🦆 Simon Voglimacci
 
-**`2nd year CS student at UdeM`**
+**`3rd year CS student at UdeM`**
 
 I'm a computer science student with a strong interest in creating solutions to real-life problems, finding ways to to relieve the small inconveniences of daily life, but mostly optimizing the hell out of everything.
 
