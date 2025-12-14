@@ -1,8 +1,8 @@
 ### 🧙🦆 Simon Voglimacci
 
-**`3rd year CS student at UdeM`**
+**`Computer Science Graduate from UdeM`**
 
-I'm a computer science student with a strong interest in creating solutions to real-life problems, finding ways to relieve the small inconveniences of daily life, but mostly optimizing the hell out of everything.
+I'm a software developper with a strong interest in creating solutions to real-life problems, finding ways to relieve the small inconveniences of daily life, but mostly optimizing the hell out of everything.
 
   <p align="left">
     <a href="https://github.com/svoglimacci?tab=followers">
